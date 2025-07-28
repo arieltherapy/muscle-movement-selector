@@ -1,0 +1,6 @@
+{
+  "name": "Muscle Movement Selector",
+  "description": "An application to select and save specific muscle movement tests from a categorized list. Selections are saved locally in the browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
